@@ -1,0 +1,2 @@
+Implement selection sort, bubble sort and insertion sort for randomely populated arrays.
+Find running time for input sizes of 10k, 20k, 30k, 40k and 50k and plot the graphs of time vs input size.
